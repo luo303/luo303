@@ -1,16 +1,14 @@
-## Hi there 👋
+# Luo
 
-<!--
-**luo303/luo303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Backend Engineer building at the intersection of AI and Systems.
 
-Here are some ideas to get you started:
+I build backend services and AI-powered applications, with a growing focus on Go, distributed systems, and production engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I care about**
+-  **Backend Systems** — Beyond CRUD, into concurrency, consistency, and reliability.
+-  **AI Engineering** — Turning LLMs and agents into real, interactive applications.
+-  **System Design** — Understanding how databases, caches, and message queues work together under pressure.
+
+**My stack:** TypeScript · React · Node.js · Go · LangGraph · MySQL · PostgreSQL · Redis · Kafka · Docker · Kubernetes
+
+*I don't just want to build software that works. I want to understand why it works — and what happens when it doesn't.*
