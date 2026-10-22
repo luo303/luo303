@@ -23,7 +23,7 @@ I build backend services and AI-powered applications, with a growing focus on Go
 
 **DevOps & Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,linux,git,github" />
 </p>
 
 ### 💼 Experience
